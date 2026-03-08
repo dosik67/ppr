@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Cormorant Garamond", serif;
+  --font-sans: "Inter", sans-serif;
+  --font-script: "Great Vibes", cursive;
+  --font-display: "Cinzel", serif;
+  --color-primary: #2b4c7e;
+  --color-secondary: #fdf8f5;
+  --color-accent: #8ba3c7;
+}
